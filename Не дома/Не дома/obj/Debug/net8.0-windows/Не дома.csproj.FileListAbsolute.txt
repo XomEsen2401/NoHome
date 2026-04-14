@@ -1,0 +1,18 @@
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\bin\Debug\net8.0-windows\Не дома.exe
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\bin\Debug\net8.0-windows\Не дома.deps.json
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\bin\Debug\net8.0-windows\Не дома.runtimeconfig.json
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\bin\Debug\net8.0-windows\Не дома.dll
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\bin\Debug\net8.0-windows\Не дома.pdb
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\obj\Debug\net8.0-windows\Не_дома.Form1.resources
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\obj\Debug\net8.0-windows\Не_дома.Properties.Resources.resources
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\obj\Debug\net8.0-windows\Не дома.csproj.GenerateResource.cache
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\obj\Debug\net8.0-windows\Не дома.GeneratedMSBuildEditorConfig.editorconfig
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\obj\Debug\net8.0-windows\Не дома.AssemblyInfoInputs.cache
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\obj\Debug\net8.0-windows\Не дома.AssemblyInfo.cs
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\obj\Debug\net8.0-windows\Не дома.csproj.CoreCompileInputs.cache
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\obj\Debug\net8.0-windows\Не дома.sourcelink.json
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\obj\Debug\net8.0-windows\Не дома.dll
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\obj\Debug\net8.0-windows\refint\Не дома.dll
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\obj\Debug\net8.0-windows\Не дома.pdb
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\obj\Debug\net8.0-windows\Не дома.genruntimeconfig.cache
+C:\Климович Есения\фуууууб\NoHome\Не дома\Не дома\obj\Debug\net8.0-windows\ref\Не дома.dll
